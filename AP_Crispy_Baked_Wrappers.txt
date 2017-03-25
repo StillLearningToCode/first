@@ -5,6 +5,13 @@ Menu Class: Appetizers
 Description:
 Baked wonton wrappers filled with cheesy sausage. This is perfect for parties.
 
+servings: 45
+
+prep time
+prep: 15m
+cook: 20m
+ready: 30m
+
 Ingredients
 1. 1 package (18 ounce) wonton wrapper
 2. 1 pound sausage
