@@ -6,3 +6,4 @@
 
 #exclude all jpg file in image folder
 /image/*.jpg
+test\.txt
